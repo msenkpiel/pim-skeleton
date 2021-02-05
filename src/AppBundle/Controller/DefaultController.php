@@ -9,5 +9,8 @@ class DefaultController extends FrontendController
 {
     public function defaultAction(Request $request)
     {
+        /*
+         * just an test
+         */
     }
 }
